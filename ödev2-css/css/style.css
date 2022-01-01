@@ -1,0 +1,51 @@
+body{
+    background-color:Cornsilk;
+   
+}
+.box1{
+    background-color:rgb(232, 230, 224);
+    width: auto;
+    height: auto;
+    text-align: center;
+    margin-top: 50px;
+}
+.link {
+    float: left;
+    text-align: center;
+    background-color: BurlyWood;
+    ;
+    width: 33%;
+    height: 86px;
+    margin right:10px ;
+  
+
+}
+.link2{
+    background-color: BurlyWood;
+    float: left;
+    height: 86px;
+    text-align: center;
+    width: 34%;
+    margin right:10px ;
+}
+.link3{
+    background-color: BurlyWood;
+    float: left;
+    height: 86px;
+    text-align: center;
+    width: 32%;
+    margin right:10px ;
+
+}
+.text-align{
+    text-align: center;
+}
+.fs-small{
+ font-size: small;
+}
+.footer{
+    text-align: center;
+    margin-top: 5%;
+    
+
+}
